@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Kokom</string>
+    <string name="title">Title: %s</string>
+    <string name="desc">Description: %s</string>
+    <string name="date">Date: %s</string>
+    <string name="delete">Delete</string>
+</resources>
